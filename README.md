@@ -6,3 +6,4 @@ Perkenalan Anggota LBE AJK dan Pemaparan Tiap DIVISI di AJK dan Pemilihan Komtin
 tangal 04-03-2018
 Divisi IoT perkenalan tentang Arduino
 dan mencoba menjalankan Arduiono seperti sensor jarak,cahaya,panas.
+
